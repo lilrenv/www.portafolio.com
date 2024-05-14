@@ -1,0 +1,27 @@
+.container {
+    text-align: center;
+}
+
+.profile-picture {
+    margin-bottom: 20px;
+}
+
+.rounded-image {
+    width: 150px; /* Ajusta el tamaño de la imagen según sea necesario */
+    height: 150px; /* Ajusta el tamaño de la imagen según sea necesario */
+    border-radius: 50%; /* Hace que la imagen sea circular */
+}
+
+.name-description {
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.first-name {
+    color: black; /* Color del primer nombre */
+}
+
+.last-name {
+    color: #FF9933; /* Color del segundo nombre */
+}

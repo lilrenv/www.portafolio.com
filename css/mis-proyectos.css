@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    font-family: 'lato', sans-serif;
+    background-color: aliceblue;}
+
+.contenedor-proyecto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 0 20px;
+    box-sizing: border-box;
+  }
+  
+  .imagen {
+    max-width: 650px;
+    margin-top: 20px;
+  }
+  
+  .texto {
+    font-size: 17px;
+    padding-left: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .h3-amarillo{
+    color: #FF9933;
+  }
+
+  .parrafo{
+    color: #333;
+    font-size: 20px;
+  }
+
+  .presentacion-proyecto{
+    max-width: 100%;
+    text-align: left;
+    margin-bottom: 17px;
+  }
